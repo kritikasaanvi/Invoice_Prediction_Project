@@ -1,0 +1,8 @@
+Model,MAE,RMSE,R2 Score
+Random Forest,0.0,0.01,1.0
+Linear Regression,0.0,0.1,1.0
+XGBoost,0.08,0.14,1.0
+Tuned XGBoost Regressor,0.0,0.01,1.0
+Logistic Regression,,,1.0
+Tuned Random Forest Classifier,,,1.0
+XGBoost Classifier,,,1.0
