@@ -16,7 +16,7 @@ A complete ML system to analyze and predict invoice payment delays using real-wo
 
 ---
 
-## ⚙ Features Overview
+##  Features Overview
 
 | Module                     | Description                                                                 |
 |---------------------------|-----------------------------------------------------------------------------|
